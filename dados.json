@@ -1,30 +1,26 @@
 [
-    {
-      "nome": "Imagem 1",
-      "url": "images/image1.jpg",
-      "cidade" : "codade1",
-      "dia" : "1",
-      "mes" : "janeiro"
-    },
-    {
-      "nome": "Imagem 2",
-      "url": "images/image2.jpg",
-      "cidade" : "codade1",
-      "dia" : "1",
-      "mes" : "janeiro"
-    },
-    {
-      "nome": "Imagem 3",
-      "url": "images/image3.jpg",
-      "cidade" : "codade1",
-      "dia" : "1",
-      "mes" : "janeiro"
-    },
-    {
-      "nome": "Carlieta Antonieta",
-      "url": "images/image4.jpg",
-      "cidade" : "codade1",
-      "dia" : "R$350/h",
-      "mes" : "A aula"
-    }
-  ]
+  {
+    "nome": "Pokemon Go",
+    "url": "images/1016-300x300.jpg",
+    "dia":25,
+    "mes":"Julho"
+  },
+  {
+    "nome": "Sekiro",
+    "url": "images/1018-300x300.jpg",
+    "dia":8,
+    "mes":"Agosto"
+  },
+  {
+    "nome": "Devil May Cry",
+    "url": "images/1021-300x300.jpg",
+    "dia":16,
+    "mes":"Setembro"
+  },
+  {
+    "nome": "Red Dead Redemption",
+    "url": "images/101-300x300.jpg",
+    "dia":25,
+    "mes":"Novembro"
+  }
+]
