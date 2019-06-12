@@ -145,7 +145,7 @@ Experiencia de Notificação
 #############################*/
 let isSubscribed = false;
 
-const applicationServerPublicKey = 'BBMCLsVO_jBIDgmD-RNxgplJkZ-hhr2Db4qWJbe4m34yznXlxwwpkgiGmKHyw7Acx1wlY6cWCeRTp3dG3kHcgtg';
+const applicationServerPublicKey = 'BBPZHtQgnYU0SFtJWjTxhe-K5mOrvxAQ2bJBk9Z3yjPH2N_nUq5TckSjZdr0IYi0L-DmNZpNFQVQ-H24opUaYyE';
 const pushButton = document.getElementById('butPush');
 
 
